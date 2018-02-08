@@ -5,5 +5,5 @@
 
 ### Sketch 
 
-### Prove of Concept
+### Proof of Concept
 
