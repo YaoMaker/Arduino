@@ -15,4 +15,6 @@ All the gears are going to be made by lazer cutting
 # WEEK 9
 ## H bridge Sheild 
 
-![](
+![](H Bridge_bb.png)
+![](H Bridge_pcb.png)
+![](H Bridge_图示.png)
